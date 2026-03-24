@@ -1,13 +1,13 @@
 # 💫 About Me:
-👀 AI + Problem Solving  
+👀 AI + App Development + Backend  
 <br>
-👯 I’m looking to collaborate on AI / Backend projects  
+👯 I’m looking to collaborate on AI / Backend / App projects  
 <br>
 🌱 Currently learning Machine Learning, NLP, and Deep Learning  
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Aman;Aspiring+AI+Engineer;CSE+Student;DSA+%2B+AI+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Aman;Aspiring+AI+Engineer;App+%2B+Backend+Developer;DSA+%2B+AI+Learner" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -26,6 +26,19 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</div>
+
+### 📱 App Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </div>
 
 ### 🧠 Learning / Exploring
@@ -85,8 +98,8 @@
 
 | Project | Description | Tech Stack |
 |---------|------------|-----------|
-| Project 1 | Add description | Python / ML |
-| Project 2 | Add description | C++ / Backend |
+| Project 1 | Add description | Android / Kotlin |
+| Project 2 | Add description | React Native / Backend |
 
 <br/>
 
